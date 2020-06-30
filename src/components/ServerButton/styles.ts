@@ -53,7 +53,8 @@ export const Button = styled.button<Props>`
 
 
     content: '${props => props.mentions}';
-    display: ${props => props.mentions && props.mentions > 0 ? 'inline' : 'none'}
+    display: ${props =>
+      props.mentions && props.mentions > 0 ? 'inline' : 'none'}
   }
 
 transition: border-radius .2s, background-color .2s;

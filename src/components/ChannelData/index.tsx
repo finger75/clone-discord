@@ -18,102 +18,90 @@ const ChannelData: React.FC = () => {
     <Container>
       <Messages ref={messagesRef}>
         <ChannelMessage
-          author='Guilherme Rodz'
+          author='Alexandre Finger'
           date='21/06/2020'
-          content='Hoje é o meu aniversário'
+          content='Learning css3 + ReactJS + TypeScript'
         />
 
         <ChannelMessage
-          author='Guilherme Rodz'
+          author='Alexandre Finger'
           date='21/06/2020'
-          content='Hoje é o meu aniversário'
+          content='Learning css3 + ReactJS + TypeScript'
         />
+
         <ChannelMessage
-          author='Guilherme Rodz'
+          author='Alexandre Finger'
           date='21/06/2020'
-          content='Hoje é o meu aniversário'
+          content='Learning css3 + ReactJS + TypeScript'
         />
+
         <ChannelMessage
-          author='Guilherme Rodz'
+          author='Alexandre Finger'
           date='21/06/2020'
-          content='Hoje é o meu aniversário'
+          content='Learning css3 + ReactJS + TypeScript'
         />
+
         <ChannelMessage
-          author='Guilherme Rodz'
+          author='Alexandre Finger'
           date='21/06/2020'
-          content='Hoje é o meu aniversário'
+          content='Learning css3 + ReactJS + TypeScript'
         />
+
         <ChannelMessage
-          author='Guilherme Rodz'
+          author='Alexandre Finger'
           date='21/06/2020'
-          content='Hoje é o meu aniversário'
+          content='Learning css3 + ReactJS + TypeScript'
         />
+
         <ChannelMessage
-          author='Guilherme Rodz'
+          author='Alexandre Finger'
           date='21/06/2020'
-          content='Hoje é o meu aniversário'
+          content='Learning css3 + ReactJS + TypeScript'
         />
+
         <ChannelMessage
-          author='Guilherme Rodz'
+          author='Alexandre Finger'
           date='21/06/2020'
-          content='Hoje é o meu aniversário'
+          content='Learning css3 + ReactJS + TypeScript'
         />
+
         <ChannelMessage
-          author='Guilherme Rodz'
+          author='Alexandre Finger'
           date='21/06/2020'
-          content='Hoje é o meu aniversário'
+          content='Learning css3 + ReactJS + TypeScript'
         />
+
         <ChannelMessage
-          author='Guilherme Rodz'
+          author='Alexandre Finger'
           date='21/06/2020'
-          content='Hoje é o meu aniversário'
+          content='Learning css3 + ReactJS + TypeScript'
         />
+
         <ChannelMessage
-          author='Guilherme Rodz'
+          author='Alexandre Finger'
           date='21/06/2020'
-          content='Hoje é o meu aniversário'
+          content='Learning css3 + ReactJS + TypeScript'
         />
+
         <ChannelMessage
-          author='Guilherme Rodz'
+          author='Alexandre Finger'
           date='21/06/2020'
-          content='Hoje é o meu aniversário'
+          content='Learning css3 + ReactJS + TypeScript'
         />
+
         <ChannelMessage
-          author='Guilherme Rodz'
+          author='Alexandre Finger'
           date='21/06/2020'
-          content='Hoje é o meu aniversário'
+          content='Learning css3 + ReactJS + TypeScript'
         />
-        <ChannelMessage
-          author='Guilherme Rodz'
-          date='21/06/2020'
-          content='Hoje é o meu aniversário'
-        />
-        <ChannelMessage
-          author='Guilherme Rodz'
-          date='21/06/2020'
-          content='Hoje é o meu aniversário'
-        />
-        <ChannelMessage
-          author='Guilherme Rodz'
-          date='21/06/2020'
-          content='Hoje é o meu aniversário'
-        />
-        <ChannelMessage
-          author='Guilherme Rodz'
-          date='21/06/2020'
-          content='Hoje é o meu aniversário'
-        />
-        <ChannelMessage
-          author='Guilherme Rodz'
-          date='21/06/2020'
-          content='Hoje é o meu aniversário'
-        />
+
+
         <ChannelMessage
           author='Diego Fernandes'
           date='21/06/2020'
           content={
             <>
-              <Mention>@Guilherme Rodz</Mention>, me carrega no LoL e CS de novo
+              <Mention>@Alexandre Finger</Mention>, me carrega no LoL e CS de novo
               por favor?
             </>
           }
