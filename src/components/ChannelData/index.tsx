@@ -20,79 +20,79 @@ const ChannelData: React.FC = () => {
         <ChannelMessage
           author='Alexandre Finger'
           date='21/06/2020'
-          content='Learning css3 + ReactJS + TypeScript'
+          content='Study of css3, with a bit of ReactJS and Typescript too ;)'
         />
 
         <ChannelMessage
           author='Alexandre Finger'
           date='21/06/2020'
-          content='Learning css3 + ReactJS + TypeScript'
+          content='Study of css3, with a bit of ReactJS and Typescript too ;)'
         />
 
         <ChannelMessage
           author='Alexandre Finger'
           date='21/06/2020'
-          content='Learning css3 + ReactJS + TypeScript'
+          content='Study of css3, with a bit of ReactJS and Typescript too ;)'
         />
 
         <ChannelMessage
           author='Alexandre Finger'
           date='21/06/2020'
-          content='Learning css3 + ReactJS + TypeScript'
+          content='Study of css3, with a bit of ReactJS and Typescript too ;)'
         />
 
         <ChannelMessage
           author='Alexandre Finger'
           date='21/06/2020'
-          content='Learning css3 + ReactJS + TypeScript'
+          content='Study of css3, with a bit of ReactJS and Typescript too ;)'
         />
 
         <ChannelMessage
           author='Alexandre Finger'
           date='21/06/2020'
-          content='Learning css3 + ReactJS + TypeScript'
+          content='Study of css3, with a bit of ReactJS and Typescript too ;)'
         />
 
         <ChannelMessage
           author='Alexandre Finger'
           date='21/06/2020'
-          content='Learning css3 + ReactJS + TypeScript'
+          content='Study of css3, with a bit of ReactJS and Typescript too ;)'
         />
 
         <ChannelMessage
           author='Alexandre Finger'
           date='21/06/2020'
-          content='Learning css3 + ReactJS + TypeScript'
+          content='Study of css3, with a bit of ReactJS and Typescript too ;)'
         />
 
         <ChannelMessage
           author='Alexandre Finger'
           date='21/06/2020'
-          content='Learning css3 + ReactJS + TypeScript'
+          content='Study of css3, with a bit of ReactJS and Typescript too ;)'
         />
 
         <ChannelMessage
           author='Alexandre Finger'
           date='21/06/2020'
-          content='Learning css3 + ReactJS + TypeScript'
+          content='Study of css3, with a bit of ReactJS and Typescript too ;)'
         />
 
         <ChannelMessage
           author='Alexandre Finger'
           date='21/06/2020'
-          content='Learning css3 + ReactJS + TypeScript'
+          content='Study of css3, with a bit of ReactJS and Typescript too ;)'
         />
 
         <ChannelMessage
           author='Alexandre Finger'
           date='21/06/2020'
-          content='Learning css3 + ReactJS + TypeScript'
+          content='Study of css3, with a bit of ReactJS and Typescript too ;)'
         />
 
         <ChannelMessage
           author='Alexandre Finger'
           date='21/06/2020'
-          content='Learning css3 + ReactJS + TypeScript'
+          content='Study of css3, with a bit of ReactJS and Typescript too ;)'
         />
 
 
